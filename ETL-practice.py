@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -13,7 +13,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 3,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -22,7 +22,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 4,
    "metadata": {},
    "outputs": [
     {
@@ -31,7 +31,7 @@
        "'C:\\\\Users\\\\Tamara\\\\Class\\\\Movies-ETL\\\\filename'"
       ]
      },
-     "execution_count": 3,
+     "execution_count": 4,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -42,7 +42,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 5,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -52,7 +52,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 6,
    "metadata": {},
    "outputs": [
     {
@@ -61,7 +61,7 @@
        "7311"
       ]
      },
-     "execution_count": 5,
+     "execution_count": 6,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -72,7 +72,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 7,
    "metadata": {},
    "outputs": [
     {
@@ -206,7 +206,7 @@
        "  'Box office': '$6,939,946 (USA)'}]"
       ]
      },
-     "execution_count": 6,
+     "execution_count": 7,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -218,7 +218,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
+   "execution_count": 8,
    "metadata": {},
    "outputs": [
     {
@@ -409,7 +409,7 @@
        "  'Language': 'English'}]"
       ]
      },
-     "execution_count": 7,
+     "execution_count": 8,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -421,7 +421,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 9,
    "metadata": {},
    "outputs": [
     {
@@ -539,7 +539,7 @@
        "  'Box office': '$23.9 million'}]"
       ]
      },
-     "execution_count": 8,
+     "execution_count": 9,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -551,7 +551,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
+   "execution_count": 10,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -561,7 +561,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 11,
    "metadata": {},
    "outputs": [
     {
@@ -610,121 +610,121 @@
        "  </thead>\n",
        "  <tbody>\n",
        "    <tr>\n",
-       "      <th>29621</th>\n",
-       "      <td>False</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>0</td>\n",
-       "      <td>[]</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>146270</td>\n",
-       "      <td>tt0220832</td>\n",
-       "      <td>hi</td>\n",
-       "      <td>Vaastav: The Reality</td>\n",
-       "      <td>\"The Reality\" as described by the film's tagli...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>1999-10-07</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>150.0</td>\n",
-       "      <td>[{'iso_639_1': 'hi', 'name': 'हिन्दी'}]</td>\n",
-       "      <td>Released</td>\n",
-       "      <td>The Reality</td>\n",
-       "      <td>Vaastav: The Reality</td>\n",
-       "      <td>False</td>\n",
-       "      <td>7.6</td>\n",
-       "      <td>8.0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>42008</th>\n",
-       "      <td>False</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>0</td>\n",
-       "      <td>[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name...</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>417056</td>\n",
-       "      <td>tt3827684</td>\n",
-       "      <td>en</td>\n",
-       "      <td>The Hollow</td>\n",
-       "      <td>When a U.S. congressman's daughter passing thr...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>2016-10-07</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>128.0</td>\n",
-       "      <td>[{'iso_639_1': 'en', 'name': 'English'}]</td>\n",
-       "      <td>Released</td>\n",
-       "      <td>High-profile murder, low-profile town</td>\n",
-       "      <td>The Hollow</td>\n",
-       "      <td>False</td>\n",
-       "      <td>5.0</td>\n",
-       "      <td>14.0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>22297</th>\n",
+       "      <th>35557</th>\n",
        "      <td>False</td>\n",
        "      <td>NaN</td>\n",
        "      <td>0</td>\n",
        "      <td>[{'id': 35, 'name': 'Comedy'}]</td>\n",
        "      <td>NaN</td>\n",
-       "      <td>45241</td>\n",
-       "      <td>tt0057556</td>\n",
-       "      <td>en</td>\n",
-       "      <td>Take Her, She's Mine</td>\n",
-       "      <td>Frank Michaelson, well respected President of ...</td>\n",
+       "      <td>81560</td>\n",
+       "      <td>tt1649354</td>\n",
+       "      <td>ja</td>\n",
+       "      <td>婚前特急</td>\n",
+       "      <td>japanese movie</td>\n",
        "      <td>...</td>\n",
-       "      <td>1963-01-01</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>98.0</td>\n",
-       "      <td>[{'iso_639_1': 'en', 'name': 'English'}, {'iso...</td>\n",
-       "      <td>Released</td>\n",
-       "      <td>There comes a time in every father's life when...</td>\n",
-       "      <td>Take Her, She's Mine</td>\n",
-       "      <td>False</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>14530</th>\n",
-       "      <td>False</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>0</td>\n",
-       "      <td>[{'id': 18, 'name': 'Drama'}]</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>148597</td>\n",
-       "      <td>tt0093133</td>\n",
-       "      <td>zh</td>\n",
-       "      <td>Hai zi wang</td>\n",
-       "      <td>An unschooled young man, one of the countless ...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>1987-01-01</td>\n",
+       "      <td>2011-04-01</td>\n",
        "      <td>0.0</td>\n",
        "      <td>107.0</td>\n",
-       "      <td>[{'iso_639_1': 'zh', 'name': '普通话'}]</td>\n",
+       "      <td>[{'iso_639_1': 'ja', 'name': '日本語'}]</td>\n",
        "      <td>Released</td>\n",
        "      <td>NaN</td>\n",
-       "      <td>King of the Children</td>\n",
+       "      <td>Cannonball Wedlock</td>\n",
        "      <td>False</td>\n",
-       "      <td>7.0</td>\n",
-       "      <td>2.0</td>\n",
+       "      <td>8.0</td>\n",
+       "      <td>1.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>44749</th>\n",
+       "      <th>7774</th>\n",
        "      <td>False</td>\n",
        "      <td>NaN</td>\n",
        "      <td>0</td>\n",
-       "      <td>[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'nam...</td>\n",
+       "      <td>[{'id': 28, 'name': 'Action'}, {'id': 18, 'nam...</td>\n",
        "      <td>NaN</td>\n",
-       "      <td>151831</td>\n",
-       "      <td>tt0010060</td>\n",
+       "      <td>37658</td>\n",
+       "      <td>tt0027300</td>\n",
        "      <td>en</td>\n",
-       "      <td>The Delicious Little Devil</td>\n",
-       "      <td>A poor hat-check girl loses her job and is for...</td>\n",
+       "      <td>Anthony Adverse</td>\n",
+       "      <td>Anthony Adverse is a 1936 American drama film ...</td>\n",
        "      <td>...</td>\n",
-       "      <td>1919-05-01</td>\n",
+       "      <td>1936-08-29</td>\n",
        "      <td>0.0</td>\n",
-       "      <td>55.0</td>\n",
-       "      <td>[]</td>\n",
+       "      <td>141.0</td>\n",
+       "      <td>[{'iso_639_1': 'en', 'name': 'English'}, {'iso...</td>\n",
+       "      <td>Released</td>\n",
+       "      <td>The thrill of thrills the world could not forget!</td>\n",
+       "      <td>Anthony Adverse</td>\n",
+       "      <td>False</td>\n",
+       "      <td>6.3</td>\n",
+       "      <td>6.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>14168</th>\n",
+       "      <td>False</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>0</td>\n",
+       "      <td>[{'id': 10749, 'name': 'Romance'}, {'id': 18, ...</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>279606</td>\n",
+       "      <td>tt0110936</td>\n",
+       "      <td>en</td>\n",
+       "      <td>Radio Inside</td>\n",
+       "      <td>As two brothers fall in love with the same wom...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>1994-03-15</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>91.0</td>\n",
+       "      <td>[{'iso_639_1': 'en', 'name': 'English'}]</td>\n",
+       "      <td>Released</td>\n",
+       "      <td>What do you do if the one you want is the one ...</td>\n",
+       "      <td>Radio Inside</td>\n",
+       "      <td>False</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>0.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1831</th>\n",
+       "      <td>False</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>2000000</td>\n",
+       "      <td>[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'n...</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>33667</td>\n",
+       "      <td>tt0039416</td>\n",
+       "      <td>en</td>\n",
+       "      <td>Gentleman's Agreement</td>\n",
+       "      <td>A magazine writer poses as a Jew to expose ant...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>1947-11-11</td>\n",
+       "      <td>7800000.0</td>\n",
+       "      <td>118.0</td>\n",
+       "      <td>[{'iso_639_1': 'en', 'name': 'English'}]</td>\n",
        "      <td>Released</td>\n",
        "      <td>NaN</td>\n",
-       "      <td>The Delicious Little Devil</td>\n",
+       "      <td>Gentleman's Agreement</td>\n",
+       "      <td>False</td>\n",
+       "      <td>6.8</td>\n",
+       "      <td>48.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>43306</th>\n",
+       "      <td>False</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>0</td>\n",
+       "      <td>[{'id': 16, 'name': 'Animation'}]</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>85424</td>\n",
+       "      <td>tt0475612</td>\n",
+       "      <td>et</td>\n",
+       "      <td>Hotell E</td>\n",
+       "      <td>This short animation is about the darkroom bet...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>1992-01-01</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>28.0</td>\n",
+       "      <td>[{'iso_639_1': 'et', 'name': 'Eesti'}]</td>\n",
+       "      <td>Released</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>Hotel E</td>\n",
        "      <td>False</td>\n",
        "      <td>5.0</td>\n",
        "      <td>1.0</td>\n",
@@ -735,59 +735,59 @@
        "</div>"
       ],
       "text/plain": [
-       "       adult belongs_to_collection budget  \\\n",
-       "29621  False                   NaN      0   \n",
-       "42008  False                   NaN      0   \n",
-       "22297  False                   NaN      0   \n",
-       "14530  False                   NaN      0   \n",
-       "44749  False                   NaN      0   \n",
+       "       adult belongs_to_collection   budget  \\\n",
+       "35557  False                   NaN        0   \n",
+       "7774   False                   NaN        0   \n",
+       "14168  False                   NaN        0   \n",
+       "1831   False                   NaN  2000000   \n",
+       "43306  False                   NaN        0   \n",
        "\n",
        "                                                  genres homepage      id  \\\n",
-       "29621                                                 []      NaN  146270   \n",
-       "42008  [{'id': 80, 'name': 'Crime'}, {'id': 18, 'name...      NaN  417056   \n",
-       "22297                     [{'id': 35, 'name': 'Comedy'}]      NaN   45241   \n",
-       "14530                      [{'id': 18, 'name': 'Drama'}]      NaN  148597   \n",
-       "44749  [{'id': 35, 'name': 'Comedy'}, {'id': 18, 'nam...      NaN  151831   \n",
+       "35557                     [{'id': 35, 'name': 'Comedy'}]      NaN   81560   \n",
+       "7774   [{'id': 28, 'name': 'Action'}, {'id': 18, 'nam...      NaN   37658   \n",
+       "14168  [{'id': 10749, 'name': 'Romance'}, {'id': 18, ...      NaN  279606   \n",
+       "1831   [{'id': 18, 'name': 'Drama'}, {'id': 10749, 'n...      NaN   33667   \n",
+       "43306                  [{'id': 16, 'name': 'Animation'}]      NaN   85424   \n",
        "\n",
-       "         imdb_id original_language              original_title  \\\n",
-       "29621  tt0220832                hi        Vaastav: The Reality   \n",
-       "42008  tt3827684                en                  The Hollow   \n",
-       "22297  tt0057556                en        Take Her, She's Mine   \n",
-       "14530  tt0093133                zh                 Hai zi wang   \n",
-       "44749  tt0010060                en  The Delicious Little Devil   \n",
+       "         imdb_id original_language         original_title  \\\n",
+       "35557  tt1649354                ja                   婚前特急   \n",
+       "7774   tt0027300                en        Anthony Adverse   \n",
+       "14168  tt0110936                en           Radio Inside   \n",
+       "1831   tt0039416                en  Gentleman's Agreement   \n",
+       "43306  tt0475612                et               Hotell E   \n",
        "\n",
        "                                                overview  ... release_date  \\\n",
-       "29621  \"The Reality\" as described by the film's tagli...  ...   1999-10-07   \n",
-       "42008  When a U.S. congressman's daughter passing thr...  ...   2016-10-07   \n",
-       "22297  Frank Michaelson, well respected President of ...  ...   1963-01-01   \n",
-       "14530  An unschooled young man, one of the countless ...  ...   1987-01-01   \n",
-       "44749  A poor hat-check girl loses her job and is for...  ...   1919-05-01   \n",
+       "35557                                     japanese movie  ...   2011-04-01   \n",
+       "7774   Anthony Adverse is a 1936 American drama film ...  ...   1936-08-29   \n",
+       "14168  As two brothers fall in love with the same wom...  ...   1994-03-15   \n",
+       "1831   A magazine writer poses as a Jew to expose ant...  ...   1947-11-11   \n",
+       "43306  This short animation is about the darkroom bet...  ...   1992-01-01   \n",
        "\n",
-       "      revenue runtime                                   spoken_languages  \\\n",
-       "29621     0.0   150.0            [{'iso_639_1': 'hi', 'name': 'हिन्दी'}]   \n",
-       "42008     0.0   128.0           [{'iso_639_1': 'en', 'name': 'English'}]   \n",
-       "22297     0.0    98.0  [{'iso_639_1': 'en', 'name': 'English'}, {'iso...   \n",
-       "14530     0.0   107.0               [{'iso_639_1': 'zh', 'name': '普通话'}]   \n",
-       "44749     0.0    55.0                                                 []   \n",
+       "         revenue runtime                                   spoken_languages  \\\n",
+       "35557        0.0   107.0               [{'iso_639_1': 'ja', 'name': '日本語'}]   \n",
+       "7774         0.0   141.0  [{'iso_639_1': 'en', 'name': 'English'}, {'iso...   \n",
+       "14168        0.0    91.0           [{'iso_639_1': 'en', 'name': 'English'}]   \n",
+       "1831   7800000.0   118.0           [{'iso_639_1': 'en', 'name': 'English'}]   \n",
+       "43306        0.0    28.0             [{'iso_639_1': 'et', 'name': 'Eesti'}]   \n",
        "\n",
        "         status                                            tagline  \\\n",
-       "29621  Released                                        The Reality   \n",
-       "42008  Released              High-profile murder, low-profile town   \n",
-       "22297  Released  There comes a time in every father's life when...   \n",
-       "14530  Released                                                NaN   \n",
-       "44749  Released                                                NaN   \n",
+       "35557  Released                                                NaN   \n",
+       "7774   Released  The thrill of thrills the world could not forget!   \n",
+       "14168  Released  What do you do if the one you want is the one ...   \n",
+       "1831   Released                                                NaN   \n",
+       "43306  Released                                                NaN   \n",
        "\n",
-       "                            title  video vote_average vote_count  \n",
-       "29621        Vaastav: The Reality  False          7.6        8.0  \n",
-       "42008                  The Hollow  False          5.0       14.0  \n",
-       "22297        Take Her, She's Mine  False          0.0        0.0  \n",
-       "14530        King of the Children  False          7.0        2.0  \n",
-       "44749  The Delicious Little Devil  False          5.0        1.0  \n",
+       "                       title  video vote_average vote_count  \n",
+       "35557     Cannonball Wedlock  False          8.0        1.0  \n",
+       "7774         Anthony Adverse  False          6.3        6.0  \n",
+       "14168           Radio Inside  False          0.0        0.0  \n",
+       "1831   Gentleman's Agreement  False          6.8       48.0  \n",
+       "43306                Hotel E  False          5.0        1.0  \n",
        "\n",
        "[5 rows x 24 columns]"
       ]
      },
-     "execution_count": 10,
+     "execution_count": 11,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -798,7 +798,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 11,
+   "execution_count": 12,
    "metadata": {},
    "outputs": [
     {
@@ -830,39 +830,39 @@
        "  </thead>\n",
        "  <tbody>\n",
        "    <tr>\n",
-       "      <th>5093874</th>\n",
-       "      <td>52420</td>\n",
-       "      <td>73929</td>\n",
-       "      <td>2.5</td>\n",
-       "      <td>1370903696</td>\n",
+       "      <th>14715525</th>\n",
+       "      <td>153007</td>\n",
+       "      <td>59315</td>\n",
+       "      <td>4.5</td>\n",
+       "      <td>1367092024</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>25684954</th>\n",
-       "      <td>267346</td>\n",
-       "      <td>1196</td>\n",
-       "      <td>5.0</td>\n",
-       "      <td>1342059160</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>7165911</th>\n",
-       "      <td>73946</td>\n",
-       "      <td>39</td>\n",
-       "      <td>3.0</td>\n",
-       "      <td>845931401</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>7783455</th>\n",
-       "      <td>80189</td>\n",
-       "      <td>2053</td>\n",
-       "      <td>2.0</td>\n",
-       "      <td>1093971414</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>19997067</th>\n",
-       "      <td>207929</td>\n",
-       "      <td>1037</td>\n",
+       "      <th>1254301</th>\n",
+       "      <td>12845</td>\n",
+       "      <td>45499</td>\n",
        "      <td>4.0</td>\n",
-       "      <td>978689687</td>\n",
+       "      <td>1266891883</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>24957450</th>\n",
+       "      <td>259508</td>\n",
+       "      <td>2571</td>\n",
+       "      <td>5.0</td>\n",
+       "      <td>940238240</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>17268521</th>\n",
+       "      <td>179291</td>\n",
+       "      <td>904</td>\n",
+       "      <td>4.0</td>\n",
+       "      <td>856634946</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>10088157</th>\n",
+       "      <td>104073</td>\n",
+       "      <td>96610</td>\n",
+       "      <td>4.5</td>\n",
+       "      <td>1488518837</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -870,14 +870,14 @@
       ],
       "text/plain": [
        "          userId  movieId  rating   timestamp\n",
-       "5093874    52420    73929     2.5  1370903696\n",
-       "25684954  267346     1196     5.0  1342059160\n",
-       "7165911    73946       39     3.0   845931401\n",
-       "7783455    80189     2053     2.0  1093971414\n",
-       "19997067  207929     1037     4.0   978689687"
+       "14715525  153007    59315     4.5  1367092024\n",
+       "1254301    12845    45499     4.0  1266891883\n",
+       "24957450  259508     2571     5.0   940238240\n",
+       "17268521  179291      904     4.0   856634946\n",
+       "10088157  104073    96610     4.5  1488518837"
       ]
      },
-     "execution_count": 11,
+     "execution_count": 12,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -888,7 +888,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 12,
+   "execution_count": 13,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -897,7 +897,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 13,
+   "execution_count": 14,
    "metadata": {},
    "outputs": [
     {
@@ -1130,7 +1130,7 @@
        "[5 rows x 193 columns]"
       ]
      },
-     "execution_count": 13,
+     "execution_count": 14,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1141,7 +1141,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 14,
+   "execution_count": 15,
    "metadata": {},
    "outputs": [
     {
@@ -1342,7 +1342,7 @@
        " 'Polish']"
       ]
      },
-     "execution_count": 14,
+     "execution_count": 15,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1353,7 +1353,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 15,
+   "execution_count": 16,
    "metadata": {},
    "outputs": [
     {
@@ -1362,7 +1362,7 @@
        "7080"
       ]
      },
-     "execution_count": 15,
+     "execution_count": 16,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1376,7 +1376,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 16,
+   "execution_count": 17,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1385,7 +1385,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 17,
+   "execution_count": 18,
    "metadata": {},
    "outputs": [
     {
@@ -1611,7 +1611,7 @@
        "[5 rows x 78 columns]"
       ]
      },
-     "execution_count": 17,
+     "execution_count": 18,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1622,7 +1622,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 18,
+   "execution_count": 19,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1634,7 +1634,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 19,
+   "execution_count": 20,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1645,7 +1645,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 20,
+   "execution_count": 21,
    "metadata": {},
    "outputs": [
     {
@@ -1782,7 +1782,7 @@
        "[2 rows x 193 columns]"
       ]
      },
-     "execution_count": 20,
+     "execution_count": 21,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1793,7 +1793,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
+   "execution_count": 22,
    "metadata": {},
    "outputs": [
     {
@@ -1804,7 +1804,7 @@
        "Name: url, dtype: object"
       ]
      },
-     "execution_count": 21,
+     "execution_count": 22,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1815,7 +1815,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 22,
+   "execution_count": 23,
    "metadata": {},
    "outputs": [
     {
@@ -2016,7 +2016,7 @@
        " 'year']"
       ]
      },
-     "execution_count": 22,
+     "execution_count": 23,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2027,18 +2027,18 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 23,
+   "execution_count": 24,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "کفرناحوم‎      1\n",
        "قضية رقم ٢٣    1\n",
+       "کفرناحوم‎      1\n",
        "Name: Arabic, dtype: int64"
       ]
      },
-     "execution_count": 23,
+     "execution_count": 24,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2049,7 +2049,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 24,
+   "execution_count": 25,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2061,7 +2061,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 25,
+   "execution_count": 26,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2078,7 +2078,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 26,
+   "execution_count": 27,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2096,7 +2096,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 27,
+   "execution_count": 28,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2118,7 +2118,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 28,
+   "execution_count": 29,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2141,7 +2141,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 29,
+   "execution_count": 30,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2150,7 +2150,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 30,
+   "execution_count": 31,
    "metadata": {},
    "outputs": [
     {
@@ -2214,7 +2214,7 @@
        " 'year']"
       ]
      },
-     "execution_count": 30,
+     "execution_count": 31,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2226,7 +2226,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 31,
+   "execution_count": 32,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2237,7 +2237,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 32,
+   "execution_count": 33,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2285,7 +2285,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 33,
+   "execution_count": 34,
    "metadata": {},
    "outputs": [
     {
@@ -2333,7 +2333,7 @@
        " 'year']"
       ]
      },
-     "execution_count": 33,
+     "execution_count": 34,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2346,7 +2346,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 34,
+   "execution_count": 36,
    "metadata": {},
    "outputs": [
     {
@@ -2580,7 +2580,7 @@
        "[5 rows x 41 columns]"
       ]
      },
-     "execution_count": 34,
+     "execution_count": 36,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2595,7 +2595,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 35,
+   "execution_count": 37,
    "metadata": {},
    "outputs": [
     {
@@ -2644,7 +2644,7 @@
        " ['imdb_id', 0]]"
       ]
      },
-     "execution_count": 35,
+     "execution_count": 37,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2655,7 +2655,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 36,
+   "execution_count": 38,
    "metadata": {},
    "outputs": [
     {
@@ -2684,7 +2684,7 @@
        " 'imdb_id']"
       ]
      },
-     "execution_count": 36,
+     "execution_count": 38,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2695,7 +2695,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 37,
+   "execution_count": 39,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2705,7 +2705,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 38,
+   "execution_count": 40,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2714,63 +2714,12 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 39,
+   "execution_count": 41,
    "metadata": {},
    "outputs": [],
    "source": [
     "def is_not_a_string(x):\n",
     "    return type(x) != str"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 40,
-   "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "34                           [US$, 4,212,828]\n",
-       "54      [$6,698,361 (, United States, ), [2]]\n",
-       "74                    [$6,488,144, (US), [1]]\n",
-       "126                [US$1,531,489, (domestic)]\n",
-       "130                          [US$, 4,803,039]\n",
-       "                        ...                  \n",
-       "6980               [$99.6, million, [4], [5]]\n",
-       "6994                   [$365.6, million, [1]]\n",
-       "6995                         [$53.8, million]\n",
-       "7015                     [$435, million, [7]]\n",
-       "7048                   [$529.3, million, [4]]\n",
-       "Name: Box office, Length: 135, dtype: object"
-      ]
-     },
-     "execution_count": 40,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "box_office[box_office.map(is_not_a_string)]"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 41,
-   "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "<function __main__.<lambda>(x)>"
-      ]
-     },
-     "execution_count": 41,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "lambda x: type(x) != str"
    ]
   },
   {
@@ -2801,12 +2750,63 @@
     }
    ],
    "source": [
-    "box_office[box_office.map(lambda x: type(x) != str)]"
+    "box_office[box_office.map(is_not_a_string)]"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 43,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "<function __main__.<lambda>(x)>"
+      ]
+     },
+     "execution_count": 43,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "lambda x: type(x) != str"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 44,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "34                           [US$, 4,212,828]\n",
+       "54      [$6,698,361 (, United States, ), [2]]\n",
+       "74                    [$6,488,144, (US), [1]]\n",
+       "126                [US$1,531,489, (domestic)]\n",
+       "130                          [US$, 4,803,039]\n",
+       "                        ...                  \n",
+       "6980               [$99.6, million, [4], [5]]\n",
+       "6994                   [$365.6, million, [1]]\n",
+       "6995                         [$53.8, million]\n",
+       "7015                     [$435, million, [7]]\n",
+       "7048                   [$529.3, million, [4]]\n",
+       "Name: Box office, Length: 135, dtype: object"
+      ]
+     },
+     "execution_count": 44,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "box_office[box_office.map(lambda x: type(x) != str)]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2815,7 +2815,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 44,
+   "execution_count": 47,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2824,7 +2824,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 45,
+   "execution_count": 48,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2833,7 +2833,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 46,
+   "execution_count": 49,
    "metadata": {},
    "outputs": [
     {
@@ -2842,7 +2842,7 @@
        "3896"
       ]
      },
-     "execution_count": 46,
+     "execution_count": 49,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2853,7 +2853,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 47,
+   "execution_count": 50,
    "metadata": {},
    "outputs": [
     {
@@ -2862,7 +2862,7 @@
        "1544"
       ]
      },
-     "execution_count": 47,
+     "execution_count": 50,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2874,7 +2874,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 48,
+   "execution_count": 51,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2884,7 +2884,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 49,
+   "execution_count": 52,
    "metadata": {},
    "outputs": [
     {
@@ -2894,7 +2894,7 @@
      "traceback": [
       "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
       "\u001b[1;31mValueError\u001b[0m                                Traceback (most recent call last)",
-      "\u001b[1;32m<ipython-input-49-02528b4b41bf>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[0;32m      1\u001b[0m \u001b[1;31m# this will throw an error!\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m----> 2\u001b[1;33m \u001b[0mbox_office\u001b[0m\u001b[1;33m[\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;32mnot\u001b[0m \u001b[0mmatches_form_one\u001b[0m\u001b[1;33m)\u001b[0m \u001b[1;32mand\u001b[0m \u001b[1;33m(\u001b[0m\u001b[1;32mnot\u001b[0m \u001b[0mmatches_form_two\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m]\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m",
+      "\u001b[1;32m<ipython-input-52-02528b4b41bf>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[0;32m      1\u001b[0m \u001b[1;31m# this will throw an error!\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m----> 2\u001b[1;33m \u001b[0mbox_office\u001b[0m\u001b[1;33m[\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;32mnot\u001b[0m \u001b[0mmatches_form_one\u001b[0m\u001b[1;33m)\u001b[0m \u001b[1;32mand\u001b[0m \u001b[1;33m(\u001b[0m\u001b[1;32mnot\u001b[0m \u001b[0mmatches_form_two\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m]\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m",
       "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\pandas\\core\\generic.py\u001b[0m in \u001b[0;36m__nonzero__\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m   1327\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1328\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0m__nonzero__\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 1329\u001b[1;33m         raise ValueError(\n\u001b[0m\u001b[0;32m   1330\u001b[0m             \u001b[1;34mf\"The truth value of a {type(self).__name__} is ambiguous. \"\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1331\u001b[0m             \u001b[1;34m\"Use a.empty, a.bool(), a.item(), a.any() or a.all().\"\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
       "\u001b[1;31mValueError\u001b[0m: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()."
      ]
@@ -2907,7 +2907,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 50,
+   "execution_count": 53,
    "metadata": {},
    "outputs": [
     {
@@ -2963,7 +2963,7 @@
        "Name: Box office, dtype: object"
       ]
      },
-     "execution_count": 50,
+     "execution_count": 53,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2974,7 +2974,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 51,
+   "execution_count": 54,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2984,7 +2984,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 52,
+   "execution_count": 55,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2993,7 +2993,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 53,
+   "execution_count": 56,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3002,7 +3002,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 54,
+   "execution_count": 57,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3011,7 +3011,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 55,
+   "execution_count": 58,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3020,7 +3020,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 56,
+   "execution_count": 59,
    "metadata": {},
    "outputs": [
     {
@@ -3114,7 +3114,7 @@
        "[5485 rows x 1 columns]"
       ]
      },
-     "execution_count": 56,
+     "execution_count": 59,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3125,7 +3125,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 57,
+   "execution_count": 74,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3177,7 +3177,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 58,
+   "execution_count": 75,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3186,7 +3186,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 59,
+   "execution_count": 76,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3195,7 +3195,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 60,
+   "execution_count": 77,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3204,7 +3204,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 61,
+   "execution_count": 78,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3213,7 +3213,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 62,
+   "execution_count": 79,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3222,7 +3222,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 63,
+   "execution_count": 80,
    "metadata": {},
    "outputs": [
     {
@@ -3269,7 +3269,7 @@
        "Name: Budget, dtype: object"
       ]
      },
-     "execution_count": 63,
+     "execution_count": 80,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3282,7 +3282,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 64,
+   "execution_count": 81,
    "metadata": {},
    "outputs": [
     {
@@ -3329,7 +3329,7 @@
        "Name: Budget, dtype: object"
       ]
      },
-     "execution_count": 64,
+     "execution_count": 81,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3341,7 +3341,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 65,
+   "execution_count": 82,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3350,7 +3350,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 66,
+   "execution_count": 83,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3359,7 +3359,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 67,
+   "execution_count": 84,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3368,7 +3368,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 68,
+   "execution_count": 85,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3380,7 +3380,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 69,
+   "execution_count": 86,
    "metadata": {},
    "outputs": [
     {
@@ -3474,7 +3474,7 @@
        "[7001 rows x 1 columns]"
       ]
      },
-     "execution_count": 69,
+     "execution_count": 86,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3485,7 +3485,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 70,
+   "execution_count": 87,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3494,7 +3494,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 71,
+   "execution_count": 88,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3503,7 +3503,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 72,
+   "execution_count": 89,
    "metadata": {},
    "outputs": [
     {
@@ -3512,7 +3512,7 @@
        "6528"
       ]
      },
-     "execution_count": 72,
+     "execution_count": 89,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3523,7 +3523,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 73,
+   "execution_count": 90,
    "metadata": {},
    "outputs": [
     {
@@ -3543,7 +3543,7 @@
        "Name: Running time, Length: 366, dtype: object"
       ]
      },
-     "execution_count": 73,
+     "execution_count": 90,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3554,7 +3554,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 74,
+   "execution_count": 91,
    "metadata": {},
    "outputs": [
     {
@@ -3563,7 +3563,7 @@
        "6877"
       ]
      },
-     "execution_count": 74,
+     "execution_count": 91,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3574,7 +3574,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 75,
+   "execution_count": 92,
    "metadata": {},
    "outputs": [
     {
@@ -3600,7 +3600,7 @@
        "Name: Running time, dtype: object"
       ]
      },
-     "execution_count": 75,
+     "execution_count": 92,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3611,7 +3611,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 76,
+   "execution_count": 93,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3620,7 +3620,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 77,
+   "execution_count": 94,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3629,7 +3629,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 78,
+   "execution_count": 95,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3638,7 +3638,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 79,
+   "execution_count": 96,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3647,7 +3647,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 80,
+   "execution_count": 97,
    "metadata": {},
    "outputs": [
     {
@@ -3680,7 +3680,7 @@
        "dtype: object"
       ]
      },
-     "execution_count": 80,
+     "execution_count": 97,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3691,7 +3691,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 81,
+   "execution_count": 98,
    "metadata": {},
    "outputs": [
     {
@@ -3705,7 +3705,7 @@
        "Name: adult, dtype: int64"
       ]
      },
-     "execution_count": 81,
+     "execution_count": 98,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3716,7 +3716,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 82,
+   "execution_count": 99,
    "metadata": {},
    "outputs": [
     {
@@ -3880,7 +3880,7 @@
        "[3 rows x 24 columns]"
       ]
      },
-     "execution_count": 82,
+     "execution_count": 99,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3891,7 +3891,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 83,
+   "execution_count": 100,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3900,7 +3900,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 84,
+   "execution_count": 101,
    "metadata": {},
    "outputs": [
     {
@@ -3911,7 +3911,7 @@
        "Name: video, dtype: int64"
       ]
      },
-     "execution_count": 84,
+     "execution_count": 101,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3922,7 +3922,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 85,
+   "execution_count": 102,
    "metadata": {},
    "outputs": [
     {
@@ -3942,7 +3942,7 @@
        "Name: video, Length: 45454, dtype: bool"
       ]
      },
-     "execution_count": 85,
+     "execution_count": 102,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3953,7 +3953,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 86,
+   "execution_count": 103,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3962,7 +3962,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 87,
+   "execution_count": 104,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3973,7 +3973,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 88,
+   "execution_count": 105,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3982,7 +3982,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 89,
+   "execution_count": 106,
    "metadata": {},
    "outputs": [
     {
@@ -4009,7 +4009,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 90,
+   "execution_count": 107,
    "metadata": {},
    "outputs": [
     {
@@ -4029,7 +4029,7 @@
        "Name: timestamp, Length: 26024289, dtype: datetime64[ns]"
       ]
      },
-     "execution_count": 90,
+     "execution_count": 107,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4040,7 +4040,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 99,
+   "execution_count": 108,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4049,7 +4049,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 100,
+   "execution_count": 109,
    "metadata": {},
    "outputs": [
     {
@@ -4066,7 +4066,7 @@
        "Name: rating, dtype: float64"
       ]
      },
-     "execution_count": 100,
+     "execution_count": 109,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4091,7 +4091,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 93,
+   "execution_count": 110,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4100,7 +4100,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 101,
+   "execution_count": 111,
    "metadata": {},
    "outputs": [
     {
@@ -4206,7 +4206,7 @@
        "[6052 rows x 2 columns]"
       ]
      },
-     "execution_count": 101,
+     "execution_count": 111,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4217,7 +4217,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 102,
+   "execution_count": 112,
    "metadata": {},
    "outputs": [
     {
@@ -4336,7 +4336,7 @@
        "[438 rows x 2 columns]"
       ]
      },
-     "execution_count": 102,
+     "execution_count": 112,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4347,7 +4347,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 103,
+   "execution_count": 113,
    "metadata": {},
    "outputs": [
     {
@@ -4408,7 +4408,7 @@
        "[0 rows x 44 columns]"
       ]
      },
-     "execution_count": 103,
+     "execution_count": 113,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4420,7 +4420,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 104,
+   "execution_count": 114,
    "metadata": {},
    "outputs": [
     {
@@ -4429,7 +4429,7 @@
        "<AxesSubplot:xlabel='running_time', ylabel='runtime'>"
       ]
      },
-     "execution_count": 104,
+     "execution_count": 114,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4452,7 +4452,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 105,
+   "execution_count": 115,
    "metadata": {},
    "outputs": [
     {
@@ -4461,7 +4461,7 @@
        "<AxesSubplot:xlabel='budget_wiki', ylabel='budget_kaggle'>"
       ]
      },
-     "execution_count": 105,
+     "execution_count": 115,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4484,7 +4484,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 106,
+   "execution_count": 116,
    "metadata": {},
    "outputs": [
     {
@@ -4493,7 +4493,7 @@
        "<AxesSubplot:xlabel='box_office', ylabel='revenue'>"
       ]
      },
-     "execution_count": 106,
+     "execution_count": 116,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4516,7 +4516,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 107,
+   "execution_count": 117,
    "metadata": {},
    "outputs": [
     {
@@ -4525,7 +4525,7 @@
        "<AxesSubplot:xlabel='box_office', ylabel='revenue'>"
       ]
      },
-     "execution_count": 107,
+     "execution_count": 117,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4548,7 +4548,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 108,
+   "execution_count": 118,
    "metadata": {},
    "outputs": [
     {
@@ -4557,7 +4557,7 @@
        "<AxesSubplot:xlabel='release_date_wiki'>"
       ]
      },
-     "execution_count": 108,
+     "execution_count": 118,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4580,7 +4580,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 109,
+   "execution_count": 119,
    "metadata": {},
    "outputs": [
     {
@@ -4685,7 +4685,7 @@
        "[1 rows x 44 columns]"
       ]
      },
-     "execution_count": 109,
+     "execution_count": 119,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4696,7 +4696,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 110,
+   "execution_count": 120,
    "metadata": {},
    "outputs": [
     {
@@ -4705,7 +4705,7 @@
        "Int64Index([3607], dtype='int64')"
       ]
      },
-     "execution_count": 110,
+     "execution_count": 120,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4716,7 +4716,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 111,
+   "execution_count": 121,
    "metadata": {},
    "outputs": [
     {
@@ -5167,7 +5167,7 @@
        "[11 rows x 44 columns]"
       ]
      },
-     "execution_count": 111,
+     "execution_count": 121,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5178,27 +5178,27 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 112,
+   "execution_count": 123,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "English                                        5480\n",
-       "NaN                                             134\n",
-       "(English, Spanish)                               68\n",
-       "(English, French)                                35\n",
-       "(English, Japanese)                              25\n",
-       "                                               ... \n",
-       "(English, French, Mohawk, Huron)                  1\n",
-       "(English, &, Serbo-Croatian)                      1\n",
-       "(English, Tok Pisin, Japanese)                    1\n",
-       "(Mandarin, English, Korean)                       1\n",
-       "(English, French, Italian, Spanish, German)       1\n",
+       "English                         5480\n",
+       "NaN                              134\n",
+       "(English, Spanish)                68\n",
+       "(English, French)                 35\n",
+       "(English, Japanese)               25\n",
+       "                                ... \n",
+       "(Portuguese, English)              1\n",
+       "(English, Afrikaans, German)       1\n",
+       "(Egyptian Arabic, English)         1\n",
+       "(French, English)                  1\n",
+       "(English, Old Norse)               1\n",
        "Name: Language, Length: 198, dtype: int64"
       ]
      },
-     "execution_count": 112,
+     "execution_count": 123,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5209,7 +5209,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 113,
+   "execution_count": 124,
    "metadata": {},
    "outputs": [
     {
@@ -5221,22 +5221,22 @@
        "it       8\n",
        "de       6\n",
        "zh       4\n",
-       "ja       4\n",
        "pt       4\n",
-       "da       2\n",
+       "ja       4\n",
        "hi       2\n",
-       "tr       1\n",
+       "da       2\n",
+       "ab       1\n",
+       "ko       1\n",
+       "sv       1\n",
        "ar       1\n",
        "he       1\n",
-       "sv       1\n",
-       "ko       1\n",
        "cn       1\n",
+       "tr       1\n",
        "ru       1\n",
-       "ab       1\n",
        "Name: original_language, dtype: int64"
       ]
      },
-     "execution_count": 113,
+     "execution_count": 124,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5247,7 +5247,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 114,
+   "execution_count": 125,
    "metadata": {},
    "outputs": [
     {
@@ -5366,7 +5366,7 @@
        "[6052 rows x 2 columns]"
       ]
      },
-     "execution_count": 114,
+     "execution_count": 125,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5377,7 +5377,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 115,
+   "execution_count": 126,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5386,7 +5386,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 116,
+   "execution_count": 127,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5399,7 +5399,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 117,
+   "execution_count": 128,
    "metadata": {},
    "outputs": [
     {
@@ -5876,7 +5876,7 @@
        "[6052 rows x 37 columns]"
       ]
      },
-     "execution_count": 117,
+     "execution_count": 128,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5890,7 +5890,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 118,
+   "execution_count": 129,
    "metadata": {},
    "outputs": [
     {
@@ -5912,7 +5912,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 119,
+   "execution_count": 130,
    "metadata": {},
    "outputs": [
     {
@@ -5922,7 +5922,7 @@
        "Name: video, dtype: int64"
       ]
      },
-     "execution_count": 119,
+     "execution_count": 130,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5933,7 +5933,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 120,
+   "execution_count": 131,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5947,7 +5947,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 121,
+   "execution_count": 132,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5971,7 +5971,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 122,
+   "execution_count": 133,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5980,7 +5980,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 123,
+   "execution_count": 141,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5990,7 +5990,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 124,
+   "execution_count": 135,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6001,7 +6001,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 125,
+   "execution_count": 136,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6010,7 +6010,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 126,
+   "execution_count": 137,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6019,7 +6019,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 127,
+   "execution_count": 138,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6028,7 +6028,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 128,
+   "execution_count": 156,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6037,7 +6037,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 129,
+   "execution_count": 157,
    "metadata": {},
    "outputs": [
     {
@@ -6046,7 +6046,7 @@
        "'postgres://[user]:[password]@[location]:[port]/[database]'"
       ]
      },
-     "execution_count": 129,
+     "execution_count": 157,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -6057,7 +6057,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 130,
+   "execution_count": 164,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6066,16 +6066,16 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 134,
+   "execution_count": 159,
    "metadata": {},
    "outputs": [],
    "source": [
-    "db_string = f\"postgres://postgres:{db_password}@127.0.0.1:5434/movie_data\""
+    "db_string = f\"postgres://postgres:{db_password}@127.0.0.1:5432/movie_data\""
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 135,
+   "execution_count": 179,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6084,72 +6084,71 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "movies_df.to_sql(name='movies', con=engine)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 138,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import time"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 139,
+   "execution_count": 183,
    "metadata": {},
    "outputs": [
     {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "importing rows 0 to 1000000...Done. 79.48372960090637 total seconds elapsed\n",
-      "importing rows 1000000 to 2000000...Done. 158.0523166656494 total seconds elapsed\n",
-      "importing rows 2000000 to 3000000...Done. 239.86566734313965 total seconds elapsed\n",
-      "importing rows 3000000 to 4000000...Done. 318.54505372047424 total seconds elapsed\n",
-      "importing rows 4000000 to 5000000...Done. 405.1518757343292 total seconds elapsed\n",
-      "importing rows 5000000 to 6000000...Done. 486.5705933570862 total seconds elapsed\n",
-      "importing rows 6000000 to 7000000...Done. 565.8667402267456 total seconds elapsed\n",
-      "importing rows 7000000 to 8000000...Done. 641.5854122638702 total seconds elapsed\n",
-      "importing rows 8000000 to 9000000...Done. 716.9304962158203 total seconds elapsed\n",
-      "importing rows 9000000 to 10000000...Done. 787.8155121803284 total seconds elapsed\n",
-      "importing rows 10000000 to 11000000...Done. 859.0189199447632 total seconds elapsed\n",
-      "importing rows 11000000 to 12000000...Done. 929.8442807197571 total seconds elapsed\n",
-      "importing rows 12000000 to 13000000...Done. 1003.319066286087 total seconds elapsed\n",
-      "importing rows 13000000 to 14000000...Done. 1074.3000357151031 total seconds elapsed\n",
-      "importing rows 14000000 to 15000000...Done. 1144.2366092205048 total seconds elapsed\n",
-      "importing rows 15000000 to 16000000...Done. 1216.0291953086853 total seconds elapsed\n",
-      "importing rows 16000000 to 17000000...Done. 1286.9545121192932 total seconds elapsed\n",
-      "importing rows 17000000 to 18000000...Done. 1357.7750658988953 total seconds elapsed\n",
-      "importing rows 18000000 to 19000000...Done. 1428.3991327285767 total seconds elapsed\n",
-      "importing rows 19000000 to 20000000...Done. 1497.659556388855 total seconds elapsed\n",
-      "importing rows 20000000 to 21000000...Done. 1583.6498959064484 total seconds elapsed\n",
-      "importing rows 21000000 to 22000000...Done. 1667.2736141681671 total seconds elapsed\n",
-      "importing rows 22000000 to 23000000...Done. 1756.4169340133667 total seconds elapsed\n",
-      "importing rows 23000000 to 24000000...Done. 1849.7756652832031 total seconds elapsed\n",
-      "importing rows 24000000 to 25000000...Done. 1938.1248502731323 total seconds elapsed\n",
-      "importing rows 25000000 to 26000000...Done. 2028.3267230987549 total seconds elapsed\n",
-      "importing rows 26000000 to 26024289...Done. 2031.235148191452 total seconds elapsed\n"
+     "ename": "OperationalError",
+     "evalue": "(psycopg2.OperationalError) FATAL:  database \"movie_data\" does not exist\n\n(Background on this error at: http://sqlalche.me/e/13/e3q8)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[1;31mOperationalError\u001b[0m                          Traceback (most recent call last)",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\base.py\u001b[0m in \u001b[0;36m_wrap_pool_connect\u001b[1;34m(self, fn, connection)\u001b[0m\n\u001b[0;32m   2335\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 2336\u001b[1;33m             \u001b[1;32mreturn\u001b[0m \u001b[0mfn\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m   2337\u001b[0m         \u001b[1;32mexcept\u001b[0m \u001b[0mdialect\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdbapi\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mError\u001b[0m \u001b[1;32mas\u001b[0m \u001b[0me\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36mconnect\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    363\u001b[0m         \u001b[1;32mif\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_use_threadlocal\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 364\u001b[1;33m             \u001b[1;32mreturn\u001b[0m \u001b[0m_ConnectionFairy\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_checkout\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    365\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m_checkout\u001b[1;34m(cls, pool, threadconns, fairy)\u001b[0m\n\u001b[0;32m    777\u001b[0m         \u001b[1;32mif\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[0mfairy\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 778\u001b[1;33m             \u001b[0mfairy\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0m_ConnectionRecord\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mcheckout\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mpool\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    779\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36mcheckout\u001b[1;34m(cls, pool)\u001b[0m\n\u001b[0;32m    494\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mcheckout\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mcls\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mpool\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 495\u001b[1;33m         \u001b[0mrec\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mpool\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_do_get\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    496\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\impl.py\u001b[0m in \u001b[0;36m_do_get\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    139\u001b[0m                 \u001b[1;32mwith\u001b[0m \u001b[0mutil\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0msafe_reraise\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 140\u001b[1;33m                     \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_dec_overflow\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    141\u001b[0m         \u001b[1;32melse\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\util\\langhelpers.py\u001b[0m in \u001b[0;36m__exit__\u001b[1;34m(self, type_, value, traceback)\u001b[0m\n\u001b[0;32m     67\u001b[0m             \u001b[1;32mif\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mwarn_only\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m---> 68\u001b[1;33m                 compat.raise_(\n\u001b[0m\u001b[0;32m     69\u001b[0m                     \u001b[0mexc_value\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\util\\compat.py\u001b[0m in \u001b[0;36mraise_\u001b[1;34m(***failed resolving arguments***)\u001b[0m\n\u001b[0;32m    181\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 182\u001b[1;33m             \u001b[1;32mraise\u001b[0m \u001b[0mexception\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    183\u001b[0m         \u001b[1;32mfinally\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\impl.py\u001b[0m in \u001b[0;36m_do_get\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    136\u001b[0m             \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 137\u001b[1;33m                 \u001b[1;32mreturn\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_create_connection\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    138\u001b[0m             \u001b[1;32mexcept\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m_create_connection\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    308\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 309\u001b[1;33m         \u001b[1;32mreturn\u001b[0m \u001b[0m_ConnectionRecord\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    310\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m__init__\u001b[1;34m(self, pool, connect)\u001b[0m\n\u001b[0;32m    439\u001b[0m         \u001b[1;32mif\u001b[0m \u001b[0mconnect\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 440\u001b[1;33m             \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m__connect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mfirst_connect_check\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;32mTrue\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    441\u001b[0m         \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mfinalize_callback\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mdeque\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m__connect\u001b[1;34m(self, first_connect_check)\u001b[0m\n\u001b[0;32m    660\u001b[0m             \u001b[1;32mwith\u001b[0m \u001b[0mutil\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0msafe_reraise\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 661\u001b[1;33m                 \u001b[0mpool\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mlogger\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdebug\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m\"Error on connect(): %s\"\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0me\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    662\u001b[0m         \u001b[1;32melse\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\util\\langhelpers.py\u001b[0m in \u001b[0;36m__exit__\u001b[1;34m(self, type_, value, traceback)\u001b[0m\n\u001b[0;32m     67\u001b[0m             \u001b[1;32mif\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mwarn_only\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m---> 68\u001b[1;33m                 compat.raise_(\n\u001b[0m\u001b[0;32m     69\u001b[0m                     \u001b[0mexc_value\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\util\\compat.py\u001b[0m in \u001b[0;36mraise_\u001b[1;34m(***failed resolving arguments***)\u001b[0m\n\u001b[0;32m    181\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 182\u001b[1;33m             \u001b[1;32mraise\u001b[0m \u001b[0mexception\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    183\u001b[0m         \u001b[1;32mfinally\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m__connect\u001b[1;34m(self, first_connect_check)\u001b[0m\n\u001b[0;32m    655\u001b[0m             \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mstarttime\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mtime\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mtime\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 656\u001b[1;33m             \u001b[0mconnection\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mpool\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_invoke_creator\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    657\u001b[0m             \u001b[0mpool\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mlogger\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdebug\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m\"Created new connection %r\"\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mconnection\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\strategies.py\u001b[0m in \u001b[0;36mconnect\u001b[1;34m(connection_record)\u001b[0m\n\u001b[0;32m    113\u001b[0m                             \u001b[1;32mreturn\u001b[0m \u001b[0mconnection\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 114\u001b[1;33m                 \u001b[1;32mreturn\u001b[0m \u001b[0mdialect\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mconnect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m*\u001b[0m\u001b[0mcargs\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mcparams\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    115\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\default.py\u001b[0m in \u001b[0;36mconnect\u001b[1;34m(self, *cargs, **cparams)\u001b[0m\n\u001b[0;32m    492\u001b[0m         \u001b[1;31m# inherits the docstring from interfaces.Dialect.connect\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 493\u001b[1;33m         \u001b[1;32mreturn\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdbapi\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mconnect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m*\u001b[0m\u001b[0mcargs\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mcparams\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    494\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\psycopg2\\__init__.py\u001b[0m in \u001b[0;36mconnect\u001b[1;34m(dsn, connection_factory, cursor_factory, **kwargs)\u001b[0m\n\u001b[0;32m    126\u001b[0m     \u001b[0mdsn\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0m_ext\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mmake_dsn\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mdsn\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mkwargs\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 127\u001b[1;33m     \u001b[0mconn\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0m_connect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mdsn\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mconnection_factory\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mconnection_factory\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mkwasync\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    128\u001b[0m     \u001b[1;32mif\u001b[0m \u001b[0mcursor_factory\u001b[0m \u001b[1;32mis\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[1;32mNone\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;31mOperationalError\u001b[0m: FATAL:  database \"movie_data\" does not exist\n",
+      "\nThe above exception was the direct cause of the following exception:\n",
+      "\u001b[1;31mOperationalError\u001b[0m                          Traceback (most recent call last)",
+      "\u001b[1;32m<ipython-input-183-97a9ecab4664>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[1;32m----> 1\u001b[1;33m \u001b[0mmovies_df\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mto_sql\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mname\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;34m'movies'\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mcon\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mengine\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mif_exists\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;34m'replace'\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\pandas\\core\\generic.py\u001b[0m in \u001b[0;36mto_sql\u001b[1;34m(self, name, con, schema, if_exists, index, index_label, chunksize, dtype, method)\u001b[0m\n\u001b[0;32m   2603\u001b[0m         \u001b[1;32mfrom\u001b[0m \u001b[0mpandas\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mio\u001b[0m \u001b[1;32mimport\u001b[0m \u001b[0msql\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   2604\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 2605\u001b[1;33m         sql.to_sql(\n\u001b[0m\u001b[0;32m   2606\u001b[0m             \u001b[0mself\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   2607\u001b[0m             \u001b[0mname\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\pandas\\io\\sql.py\u001b[0m in \u001b[0;36mto_sql\u001b[1;34m(frame, name, con, schema, if_exists, index, index_label, chunksize, dtype, method)\u001b[0m\n\u001b[0;32m    587\u001b[0m         )\n\u001b[0;32m    588\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 589\u001b[1;33m     pandas_sql.to_sql(\n\u001b[0m\u001b[0;32m    590\u001b[0m         \u001b[0mframe\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    591\u001b[0m         \u001b[0mname\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\pandas\\io\\sql.py\u001b[0m in \u001b[0;36mto_sql\u001b[1;34m(self, frame, name, if_exists, index, index_label, schema, chunksize, dtype, method)\u001b[0m\n\u001b[0;32m   1391\u001b[0m             \u001b[0mdtype\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mdtype\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1392\u001b[0m         )\n\u001b[1;32m-> 1393\u001b[1;33m         \u001b[0mtable\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mcreate\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m   1394\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1395\u001b[0m         \u001b[1;32mfrom\u001b[0m \u001b[0msqlalchemy\u001b[0m \u001b[1;32mimport\u001b[0m \u001b[0mexc\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\pandas\\io\\sql.py\u001b[0m in \u001b[0;36mcreate\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    719\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    720\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mcreate\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 721\u001b[1;33m         \u001b[1;32mif\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mexists\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    722\u001b[0m             \u001b[1;32mif\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mif_exists\u001b[0m \u001b[1;33m==\u001b[0m \u001b[1;34m\"fail\"\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    723\u001b[0m                 \u001b[1;32mraise\u001b[0m \u001b[0mValueError\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34mf\"Table '{self.name}' already exists.\"\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\pandas\\io\\sql.py\u001b[0m in \u001b[0;36mexists\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    706\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    707\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mexists\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 708\u001b[1;33m         \u001b[1;32mreturn\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mpd_sql\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mhas_table\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mname\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mschema\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    709\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    710\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0msql_schema\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\pandas\\io\\sql.py\u001b[0m in \u001b[0;36mhas_table\u001b[1;34m(self, name, schema)\u001b[0m\n\u001b[0;32m   1428\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1429\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mhas_table\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mname\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mschema\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;32mNone\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 1430\u001b[1;33m         return self.connectable.run_callable(\n\u001b[0m\u001b[0;32m   1431\u001b[0m             \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mconnectable\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdialect\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mhas_table\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mname\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mschema\u001b[0m \u001b[1;32mor\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mmeta\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mschema\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1432\u001b[0m         )\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\base.py\u001b[0m in \u001b[0;36mrun_callable\u001b[1;34m(self, callable_, *args, **kwargs)\u001b[0m\n\u001b[0;32m   2209\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   2210\u001b[0m         \"\"\"\n\u001b[1;32m-> 2211\u001b[1;33m         \u001b[1;32mwith\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_contextual_connect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m \u001b[1;32mas\u001b[0m \u001b[0mconn\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m   2212\u001b[0m             \u001b[1;32mreturn\u001b[0m \u001b[0mconn\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mrun_callable\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mcallable_\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m*\u001b[0m\u001b[0margs\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mkwargs\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   2213\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\base.py\u001b[0m in \u001b[0;36m_contextual_connect\u001b[1;34m(self, close_with_result, **kwargs)\u001b[0m\n\u001b[0;32m   2300\u001b[0m         return self._connection_cls(\n\u001b[0;32m   2301\u001b[0m             \u001b[0mself\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 2302\u001b[1;33m             \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_wrap_pool_connect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mpool\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mconnect\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;32mNone\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m   2303\u001b[0m             \u001b[0mclose_with_result\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mclose_with_result\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   2304\u001b[0m             \u001b[1;33m**\u001b[0m\u001b[0mkwargs\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\base.py\u001b[0m in \u001b[0;36m_wrap_pool_connect\u001b[1;34m(self, fn, connection)\u001b[0m\n\u001b[0;32m   2337\u001b[0m         \u001b[1;32mexcept\u001b[0m \u001b[0mdialect\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdbapi\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mError\u001b[0m \u001b[1;32mas\u001b[0m \u001b[0me\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   2338\u001b[0m             \u001b[1;32mif\u001b[0m \u001b[0mconnection\u001b[0m \u001b[1;32mis\u001b[0m \u001b[1;32mNone\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 2339\u001b[1;33m                 Connection._handle_dbapi_exception_noconnection(\n\u001b[0m\u001b[0;32m   2340\u001b[0m                     \u001b[0me\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mdialect\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   2341\u001b[0m                 )\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\base.py\u001b[0m in \u001b[0;36m_handle_dbapi_exception_noconnection\u001b[1;34m(cls, e, dialect, engine)\u001b[0m\n\u001b[0;32m   1581\u001b[0m             \u001b[0mutil\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mraise_\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mnewraise\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mwith_traceback\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mexc_info\u001b[0m\u001b[1;33m[\u001b[0m\u001b[1;36m2\u001b[0m\u001b[1;33m]\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mfrom_\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0me\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1582\u001b[0m         \u001b[1;32melif\u001b[0m \u001b[0mshould_wrap\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 1583\u001b[1;33m             util.raise_(\n\u001b[0m\u001b[0;32m   1584\u001b[0m                 \u001b[0msqlalchemy_exception\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mwith_traceback\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mexc_info\u001b[0m\u001b[1;33m[\u001b[0m\u001b[1;36m2\u001b[0m\u001b[1;33m]\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mfrom_\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0me\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1585\u001b[0m             )\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\util\\compat.py\u001b[0m in \u001b[0;36mraise_\u001b[1;34m(***failed resolving arguments***)\u001b[0m\n\u001b[0;32m    180\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    181\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 182\u001b[1;33m             \u001b[1;32mraise\u001b[0m \u001b[0mexception\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    183\u001b[0m         \u001b[1;32mfinally\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    184\u001b[0m             \u001b[1;31m# credit to\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\base.py\u001b[0m in \u001b[0;36m_wrap_pool_connect\u001b[1;34m(self, fn, connection)\u001b[0m\n\u001b[0;32m   2334\u001b[0m         \u001b[0mdialect\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdialect\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   2335\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 2336\u001b[1;33m             \u001b[1;32mreturn\u001b[0m \u001b[0mfn\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m   2337\u001b[0m         \u001b[1;32mexcept\u001b[0m \u001b[0mdialect\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdbapi\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mError\u001b[0m \u001b[1;32mas\u001b[0m \u001b[0me\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   2338\u001b[0m             \u001b[1;32mif\u001b[0m \u001b[0mconnection\u001b[0m \u001b[1;32mis\u001b[0m \u001b[1;32mNone\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36mconnect\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    362\u001b[0m         \"\"\"\n\u001b[0;32m    363\u001b[0m         \u001b[1;32mif\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_use_threadlocal\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 364\u001b[1;33m             \u001b[1;32mreturn\u001b[0m \u001b[0m_ConnectionFairy\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_checkout\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    365\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    366\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m_checkout\u001b[1;34m(cls, pool, threadconns, fairy)\u001b[0m\n\u001b[0;32m    776\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0m_checkout\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mcls\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mpool\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mthreadconns\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;32mNone\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mfairy\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;32mNone\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    777\u001b[0m         \u001b[1;32mif\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[0mfairy\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 778\u001b[1;33m             \u001b[0mfairy\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0m_ConnectionRecord\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mcheckout\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mpool\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    779\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    780\u001b[0m             \u001b[0mfairy\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_pool\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mpool\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36mcheckout\u001b[1;34m(cls, pool)\u001b[0m\n\u001b[0;32m    493\u001b[0m     \u001b[1;33m@\u001b[0m\u001b[0mclassmethod\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    494\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mcheckout\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mcls\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mpool\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 495\u001b[1;33m         \u001b[0mrec\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mpool\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_do_get\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    496\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    497\u001b[0m             \u001b[0mdbapi_connection\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mrec\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mget_connection\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\impl.py\u001b[0m in \u001b[0;36m_do_get\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    138\u001b[0m             \u001b[1;32mexcept\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    139\u001b[0m                 \u001b[1;32mwith\u001b[0m \u001b[0mutil\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0msafe_reraise\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 140\u001b[1;33m                     \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_dec_overflow\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    141\u001b[0m         \u001b[1;32melse\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    142\u001b[0m             \u001b[1;32mreturn\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_do_get\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\util\\langhelpers.py\u001b[0m in \u001b[0;36m__exit__\u001b[1;34m(self, type_, value, traceback)\u001b[0m\n\u001b[0;32m     66\u001b[0m             \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_exc_info\u001b[0m \u001b[1;33m=\u001b[0m \u001b[1;32mNone\u001b[0m  \u001b[1;31m# remove potential circular references\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     67\u001b[0m             \u001b[1;32mif\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mwarn_only\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m---> 68\u001b[1;33m                 compat.raise_(\n\u001b[0m\u001b[0;32m     69\u001b[0m                     \u001b[0mexc_value\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     70\u001b[0m                     \u001b[0mwith_traceback\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mexc_tb\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\util\\compat.py\u001b[0m in \u001b[0;36mraise_\u001b[1;34m(***failed resolving arguments***)\u001b[0m\n\u001b[0;32m    180\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    181\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 182\u001b[1;33m             \u001b[1;32mraise\u001b[0m \u001b[0mexception\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    183\u001b[0m         \u001b[1;32mfinally\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    184\u001b[0m             \u001b[1;31m# credit to\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\impl.py\u001b[0m in \u001b[0;36m_do_get\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    135\u001b[0m         \u001b[1;32mif\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_inc_overflow\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    136\u001b[0m             \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 137\u001b[1;33m                 \u001b[1;32mreturn\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_create_connection\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    138\u001b[0m             \u001b[1;32mexcept\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    139\u001b[0m                 \u001b[1;32mwith\u001b[0m \u001b[0mutil\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0msafe_reraise\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m_create_connection\u001b[1;34m(self)\u001b[0m\n\u001b[0;32m    307\u001b[0m         \u001b[1;34m\"\"\"Called by subclasses to create a new ConnectionRecord.\"\"\"\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    308\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 309\u001b[1;33m         \u001b[1;32mreturn\u001b[0m \u001b[0m_ConnectionRecord\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    310\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    311\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0m_invalidate\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mconnection\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mexception\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;32mNone\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0m_checkin\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;32mTrue\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m__init__\u001b[1;34m(self, pool, connect)\u001b[0m\n\u001b[0;32m    438\u001b[0m         \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m__pool\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mpool\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    439\u001b[0m         \u001b[1;32mif\u001b[0m \u001b[0mconnect\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 440\u001b[1;33m             \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m__connect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mfirst_connect_check\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;32mTrue\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    441\u001b[0m         \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mfinalize_callback\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mdeque\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    442\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m__connect\u001b[1;34m(self, first_connect_check)\u001b[0m\n\u001b[0;32m    659\u001b[0m         \u001b[1;32mexcept\u001b[0m \u001b[0mException\u001b[0m \u001b[1;32mas\u001b[0m \u001b[0me\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    660\u001b[0m             \u001b[1;32mwith\u001b[0m \u001b[0mutil\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0msafe_reraise\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 661\u001b[1;33m                 \u001b[0mpool\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mlogger\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdebug\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m\"Error on connect(): %s\"\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0me\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    662\u001b[0m         \u001b[1;32melse\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    663\u001b[0m             \u001b[1;32mif\u001b[0m \u001b[0mfirst_connect_check\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\util\\langhelpers.py\u001b[0m in \u001b[0;36m__exit__\u001b[1;34m(self, type_, value, traceback)\u001b[0m\n\u001b[0;32m     66\u001b[0m             \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_exc_info\u001b[0m \u001b[1;33m=\u001b[0m \u001b[1;32mNone\u001b[0m  \u001b[1;31m# remove potential circular references\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     67\u001b[0m             \u001b[1;32mif\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mwarn_only\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m---> 68\u001b[1;33m                 compat.raise_(\n\u001b[0m\u001b[0;32m     69\u001b[0m                     \u001b[0mexc_value\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     70\u001b[0m                     \u001b[0mwith_traceback\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mexc_tb\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\util\\compat.py\u001b[0m in \u001b[0;36mraise_\u001b[1;34m(***failed resolving arguments***)\u001b[0m\n\u001b[0;32m    180\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    181\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 182\u001b[1;33m             \u001b[1;32mraise\u001b[0m \u001b[0mexception\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    183\u001b[0m         \u001b[1;32mfinally\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    184\u001b[0m             \u001b[1;31m# credit to\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\pool\\base.py\u001b[0m in \u001b[0;36m__connect\u001b[1;34m(self, first_connect_check)\u001b[0m\n\u001b[0;32m    654\u001b[0m         \u001b[1;32mtry\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    655\u001b[0m             \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mstarttime\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mtime\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mtime\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 656\u001b[1;33m             \u001b[0mconnection\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mpool\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0m_invoke_creator\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    657\u001b[0m             \u001b[0mpool\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mlogger\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdebug\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m\"Created new connection %r\"\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mconnection\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    658\u001b[0m             \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mconnection\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mconnection\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\strategies.py\u001b[0m in \u001b[0;36mconnect\u001b[1;34m(connection_record)\u001b[0m\n\u001b[0;32m    112\u001b[0m                         \u001b[1;32mif\u001b[0m \u001b[0mconnection\u001b[0m \u001b[1;32mis\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[1;32mNone\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    113\u001b[0m                             \u001b[1;32mreturn\u001b[0m \u001b[0mconnection\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 114\u001b[1;33m                 \u001b[1;32mreturn\u001b[0m \u001b[0mdialect\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mconnect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m*\u001b[0m\u001b[0mcargs\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mcparams\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    115\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    116\u001b[0m             \u001b[0mcreator\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mpop_kwarg\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m\"creator\"\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mconnect\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\sqlalchemy\\engine\\default.py\u001b[0m in \u001b[0;36mconnect\u001b[1;34m(self, *cargs, **cparams)\u001b[0m\n\u001b[0;32m    491\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mconnect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m*\u001b[0m\u001b[0mcargs\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mcparams\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    492\u001b[0m         \u001b[1;31m# inherits the docstring from interfaces.Dialect.connect\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 493\u001b[1;33m         \u001b[1;32mreturn\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mdbapi\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mconnect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m*\u001b[0m\u001b[0mcargs\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mcparams\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    494\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    495\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mcreate_connect_args\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0murl\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32m~\\anaconda3\\lib\\site-packages\\psycopg2\\__init__.py\u001b[0m in \u001b[0;36mconnect\u001b[1;34m(dsn, connection_factory, cursor_factory, **kwargs)\u001b[0m\n\u001b[0;32m    125\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    126\u001b[0m     \u001b[0mdsn\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0m_ext\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mmake_dsn\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mdsn\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mkwargs\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 127\u001b[1;33m     \u001b[0mconn\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0m_connect\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mdsn\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mconnection_factory\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mconnection_factory\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mkwasync\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    128\u001b[0m     \u001b[1;32mif\u001b[0m \u001b[0mcursor_factory\u001b[0m \u001b[1;32mis\u001b[0m \u001b[1;32mnot\u001b[0m \u001b[1;32mNone\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    129\u001b[0m         \u001b[0mconn\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mcursor_factory\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mcursor_factory\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;31mOperationalError\u001b[0m: (psycopg2.OperationalError) FATAL:  database \"movie_data\" does not exist\n\n(Background on this error at: http://sqlalche.me/e/13/e3q8)"
      ]
     }
    ],
    "source": [
-    "rows_imported = 0\n",
-    "# get the start_time from time.time()\n",
-    "start_time = time.time()\n",
-    "for data in pd.read_csv(f'{file_dir}ratings.csv', chunksize=1000000):\n",
-    "    print(f'importing rows {rows_imported} to {rows_imported + len(data)}...', end='')\n",
-    "    data.to_sql(name='ratings', con=engine, if_exists='append')\n",
-    "    rows_imported += len(data)\n",
-    "\n",
-    "    # add elapsed time to final print out\n",
-    "    print(f'Done. {time.time() - start_time} total seconds elapsed')"
+    "movies_df.to_sql(name='movies', con=engine, if_exists='replace')"
    ]
   },
   {
